@@ -1,4 +1,4 @@
-## Hi there 👋
+## WMOTester
 
 <!--
 **WMOTester/WMOTester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
